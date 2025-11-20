@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm 👋</h1>
+<h1 align="center">Hello there, I'm shabiha👋</h1>
 
 <p align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%"/>
@@ -16,7 +16,7 @@
 
 
 ## 🔗 Socials
-
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-3C8DB5?style=for-the-badge&logo=analytics&logoColor=white)](YOUR_DATA_ANALYSIS_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
 
