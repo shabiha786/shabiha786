@@ -15,7 +15,9 @@
   - Power BI
 
 
-![Tech Banner](https://raw.githubusercontent.com/USERNAME/REPO/main/IMAGES/3bf7037e-1438-425a-80b2-01bcdd5f7daf.png)
+![Data Analysis Image](/mnt/data/images.jfif)
+![Data Analysis Image](https://raw.githubusercontent.com/USERNAME/REPO/main/images/data-analysis.png)
+
 
 ## 🔗 Socials
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-3C8DB5?style=for-the-badge&logo=analytics&logoColor=white)](YOUR_DATA_ANALYSIS_LINK)
