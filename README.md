@@ -15,11 +15,6 @@
   - Power BI
 
 
-/mnt/data/images.jfif
-![Header Image](OLD_IMAGE_LINK)
-![Data Analysis Header](/mnt/data/images.jfif)
-
-
 ## 🔗 Socials
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-3C8DB5?style=for-the-badge&logo=analytics&logoColor=white)](YOUR_DATA_ANALYSIS_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
@@ -34,13 +29,4 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C92?style=for-the-badge)
 
-
-
-## 📊 GitHub Stats:
-
-<!-- GitHub Stats Card -->
-![Metrics](https://metrics.lecoq.io/USERNAME?template=classic&base.header=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)
-
-
-![Metrics](https://metrics.lecoq.io/USERNAME?template=classic&repositories.forks=true&base.header=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&config.timezone=Asia%2FCalcutta)
 
