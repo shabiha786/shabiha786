@@ -14,6 +14,8 @@
   - SQL (MySQL)
   - Power BI
 
+![Data Analysis Header](sandbox:/mnt/data/images.jfif)
+
 
 ## 🔗 Socials
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-3C8DB5?style=for-the-badge&logo=analytics&logoColor=white)](YOUR_DATA_ANALYSIS_LINK)
