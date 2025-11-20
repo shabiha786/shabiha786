@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hello there, I'm 👋</h1>
 
-<!--
-**shabiha786/shabiha786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing **MSc in Statistics** | Aspiring **Data Analyst**
+- 💡 Passionate about **SQL, Python, and Power BI**
+- 📊 Data **Analytics & Visualization**
+- 🛠️ TOOLS - 
+  - Python (Pandas, NumPy, Matplotlib)
+  - SQL (MySQL)
+  - Power BI
+
+
+## 🔗 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+
+## 🛠️ Tech Stack
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C92?style=for-the-badge)
+
+
+
+## 📊 GitHub Stats:
+
+<!-- GitHub Stats Card -->
+![Metrics](https://metrics.lecoq.io/USERNAME?template=classic&base.header=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)
+
+
+![Metrics](https://metrics.lecoq.io/USERNAME?template=classic&repositories.forks=true&base.header=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&config.timezone=Asia%2FCalcutta)
+
