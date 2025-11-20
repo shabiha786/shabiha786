@@ -15,10 +15,13 @@
   - Power BI
 
 
+![Tech Banner](https://raw.githubusercontent.com/USERNAME/REPO/main/IMAGES/3bf7037e-1438-425a-80b2-01bcdd5f7daf.png)
+
 ## 🔗 Socials
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-3C8DB5?style=for-the-badge&logo=analytics&logoColor=white)](YOUR_DATA_ANALYSIS_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+
 
 ## 🛠️ Tech Stack
 
