@@ -15,8 +15,9 @@
   - Power BI
 
 
-![Data Analysis Image](/mnt/data/images.jfif)
-![Data Analysis Image](https://raw.githubusercontent.com/USERNAME/REPO/main/images/data-analysis.png)
+/mnt/data/images.jfif
+![Header Image](OLD_IMAGE_LINK)
+![Data Analysis Header](/mnt/data/images.jfif)
 
 
 ## 🔗 Socials
