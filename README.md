@@ -14,7 +14,7 @@
   - SQL (MySQL)
   - Power BI
 
-![Data Analysis Header](sandbox:/mnt/data/images.jfif)
+![Data Analysis Header](https://raw.githubusercontent.com/USERNAME/REPO/main/images.jfif)
 
 
 ## 🔗 Socials
