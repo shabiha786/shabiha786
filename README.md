@@ -31,11 +31,16 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C92?style=for-the-badge)
 
 
-
-**## 🔗 GitHub Stats
+## 🔗 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabiha786&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshib273&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/badge/SHABIHA%20RAYEEN's%20GitHub%20Stats-000000?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars-3-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/🕒%20Commits%20(last%20year)-21-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔁%20Total%20PRs-0-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🐞%20Total%20Issues-0-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/📦%20Contributed%20(last%20year)-0-green?style=flat-square" />
+</p>
