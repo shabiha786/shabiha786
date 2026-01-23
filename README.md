@@ -1,21 +1,9 @@
 <h1 align="center">
   Hello there, I'm Shabiha
 </h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sakshib273/sakshib273/main/what-is-data-analytics-mads.jpg" width="100%" />
 </p>
-
-## About Me:
-
-- 🎓 Pursuing MSc in Data Science | Aspiring Data Engineer  
-- 🔥 Passionate about SQL, ETL, and Data Warehousing  
-- 📊 Data analytics & visualization enthusiast  
-- ☕ Tea lover | ⚽ Sports enthusiast  
-
-## Socials:
-
-
 
 ## 👩‍💻 About Me
 
