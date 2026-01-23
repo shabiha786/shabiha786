@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="data_analytics.jpg" width="100%" />
+  <img src="assets/what-is-data-analytics-mads.jpg" width="100%" />
 </p>
-
 
 ## 👩‍💻 About Me
 
