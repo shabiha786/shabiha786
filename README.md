@@ -32,12 +32,10 @@
 
 
 
-
-## 🔗 GitHub Stats
+**## 🔗 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-6-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shabiha786&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshib273&layout=compact&theme=dark&hide_border=true" height="170"/>
 </p>
-
 
