@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/sakshib273/sakshib273/main/what-is-data-analytics-mads.jpg" width="100%" />
 </p>
 
+
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing **MSc in Statistics** | Aspiring **Data Analyst**
