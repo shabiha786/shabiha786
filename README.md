@@ -1,8 +1,7 @@
-<h1 align="center">Hello there, I'm shabiha👋</h1>
-
 <p align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%"/>
+  <img src="data_analytics.jpg" width="100%" />
 </p>
+
 
 ## 👩‍💻 About Me
 
