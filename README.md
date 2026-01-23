@@ -34,13 +34,7 @@
 ## 🔗 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SHABIHA%20RAYEEN's%20GitHub%20Stats-000000?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shabiha786show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabiha786&layout=compact&theme=dark&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐%20Total%20Stars-3-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/🕒%20Commits%20(last%20year)-21-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔁%20Total%20PRs-0-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/🐞%20Total%20Issues-0-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/📦%20Contributed%20(last%20year)-0-green?style=flat-square" />
-</p>
