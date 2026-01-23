@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/what-is-data-analytics-mads.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/what-is-data-analytics-mads.jpg" width="100%" />
 </p>
 
 ## 👩‍💻 About Me
