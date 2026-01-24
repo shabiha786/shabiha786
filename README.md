@@ -34,7 +34,7 @@
 ## 🔗 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabiha786show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shabiha786&show_icons=true&theme=dark&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabiha786&layout=compact&theme=dark&hide_border=true" height="170"/>
 </p>
 
