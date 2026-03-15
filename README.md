@@ -5,24 +5,24 @@
 </p>
 
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Pursuing **MSc in Statistics** | Aspiring **Data Analyst**
-- 💡 Passionate about **SQL, Python, and Power BI**
-- 📊 Data **Analytics & Visualization**
-- 🛠️ TOOLS - 
+- Pursuing **MSc in Statistics** | Aspiring **Data Analyst**
+-  Passionate about **SQL, Python, and Power BI**
+- Data **Analytics & Visualization**
+-  TOOLS - 
   - Python (Pandas, NumPy, Matplotlib)
   - SQL (MySQL)
   - Power BI
 
 
-## 🔗 Socials
+## Socials
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-3C8DB5?style=for-the-badge&logo=analytics&logoColor=white)](YOUR_DATA_ANALYSIS_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C92?style=for-the-badge)
 
 
-## 🔗 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shabiha786&show_icons=true&theme=dark&hide_border=true" height="170"/>
