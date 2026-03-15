@@ -10,7 +10,27 @@
 - Pursuing **MSc in Statistics** | Aspiring **Data Analyst**
 -  Passionate about **SQL, Python, and Power BI**
 - Data **Analytics & Visualization**
--  TOOLS - 
+  
+## Skills
+Programming
+Python
+SQL (MySQL)
+Data Analysis
+Pandas
+NumPy
+Data Cleaning
+Exploratory Data Analysis (EDA)
+
+## Data Visualization
+Matplotlib
+Power BI
+Excel Charts
+
+## Tools
+Git & GitHub
+Jupyter Notebook
+Power BI
+## TOOLS
   - Python (Pandas, NumPy, Matplotlib)
   - SQL (MySQL)
   - Power BI
