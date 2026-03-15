@@ -12,14 +12,14 @@
 - Data **Analytics & Visualization**
   
 ## Skills
--Programming
--Python
--SQL (MySQL)
--Data Analysis
--Pandas
--NumPy
--Data Cleaning
--Exploratory Data Analysis (EDA)
+- Programming
+- Python
+- SQL (MySQL)
+- Data Analysis
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
 ## Data Visualization
 -Matplotlib
