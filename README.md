@@ -36,6 +36,12 @@
   - Power BI
 
 
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/feed/  
+- Email: shabiharayeen@gmail.com  
+- GitHub: https://github.com/shabiha786
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
