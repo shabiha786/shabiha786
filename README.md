@@ -22,14 +22,14 @@
 - Exploratory Data Analysis (EDA)
 
 ## Data Visualization
--Matplotlib
--Power BI
--Excel Charts
+- Matplotlib
+- Power BI
+- Excel Charts
 
 ## Tools
--Git & GitHub
--Jupyter Notebook
--Power BI
+- Git & GitHub
+- Jupyter Notebook
+- Power BI
 ## TOOLS
   - Python (Pandas, NumPy, Matplotlib)
   - SQL (MySQL)
