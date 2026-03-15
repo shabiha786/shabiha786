@@ -30,12 +30,7 @@
 - Git & GitHub
 - Jupyter Notebook
 - Power BI
-## TOOLS
-  - Python (Pandas, NumPy, Matplotlib)
-  - SQL (MySQL)
-  - Power BI
-
-
+- 
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/feed/  
