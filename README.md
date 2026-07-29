@@ -1,125 +1,104 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+<img src="YOUR_BANNER_URL" width="100%" />
 
-# Shabiha Rayeen
+# 👋 Hi, I'm **Shabiha Rayeen**
 
 ### Data Analyst | Statistics | Python | SQL | Power BI
 
-### *Transforming Raw Data into Meaningful Business Insights*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Meaningful+Insights;Statistics+%7C+Data+Analytics+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions" />
 
-<p>
+<br>
 
-<img src="https://img.shields.io/badge/M.Sc_Statistics-0F172A?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓_M.Sc._Statistics-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏫_University_of_Mumbai-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Data_Analytics-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐍_Python_|_SQL_|_Power_BI-06B6D4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/University_of_Mumbai-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Data_Analytics-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Mumbai,_India-0F172A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Python_|_SQL_|_Power_BI-06B6D4?style=for-the-badge"/>
+<br><br>
 
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Mumbai-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/India-2563EB?style=for-the-badge"/>
-
-</p>
-
-<p>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+<a href="https://github.com/shabiha786">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shabiharayeen@gmail.com">
 <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
-
-</p>
 
 </div>
 
 ---
 
-# 👩‍💻 About
+# 👩‍💻 About Me
 
 I am **Shabiha Rayeen**, an **M.Sc. Statistics** student at the **University of Mumbai** and an aspiring **Data Analyst** based in Mumbai, India.
 
-My work focuses on transforming raw datasets into actionable business insights using **Python, SQL, Power BI, Excel, and statistical analysis**. I enjoy solving analytical problems through data cleaning, exploratory data analysis (EDA), dashboard development, ETL workflows, and visualization.
+I enjoy transforming raw datasets into meaningful business insights using **Python, SQL, Power BI, Excel, and statistical analysis**. My interests include exploratory data analysis, ETL pipelines, dashboard development, business intelligence, and predictive analytics.
 
-I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to support informed decision-making. My interests include **Business Intelligence, Applied Statistics, Data Visualization, and Predictive Analytics**.
+I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to solve real-world problems and support data-driven decision-making.
 
 ---
 
 # 🎯 Open To
 
-| Open To | Focus Areas |
-|----------|-------------|
+| Role | Focus Areas |
+|------|-------------|
 | 📊 Data Analyst | Python, SQL, Statistics, EDA |
-| 📈 Business Intelligence Analyst | Power BI, KPI Reporting, Power Query |
-| 📉 Junior Data Analyst | Data Cleaning, Visualization, ETL |
+| 📈 BI Analyst | Power BI, KPI Reporting, Dashboards |
+| 📉 Junior Data Analyst | Data Cleaning, Visualization |
 | 📚 Research Analyst | Statistical Analysis, Survey Analytics |
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## Analytics & Visualization
+### 📊 Analytics & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel)
 
----
-
-## Database
+### 🗄 Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
----
+### 🛠 Tools
 
-## Tools
-
-Git • GitHub • VS Code • Jupyter Notebook
+Git • GitHub • Jupyter Notebook • VS Code
 
 ---
 
 # 📊 Core Expertise
 
-| Domain | Level | Details |
-|---------|:----:|---------|
-| Exploratory Data Analysis | ⭐⭐⭐⭐⭐ | Data Cleaning, Missing Values, Outlier Detection |
-| Statistical Analysis | ⭐⭐⭐⭐⭐ | Hypothesis Testing, Regression, Correlation |
-| Business Intelligence | ⭐⭐⭐⭐☆ | Power BI, Dashboards, KPI Reporting |
-| Data Visualization | ⭐⭐⭐⭐☆ | Charts, Reports, Storytelling |
-| ETL & Data Processing | ⭐⭐⭐⭐☆ | Python, SQL, Pandas |
-| Survey Analytics | ⭐⭐⭐⭐☆ | Reliability Analysis, Questionnaire Design |
-| Forecasting | ⭐⭐⭐☆☆ | Trend Analysis |
-| Machine Learning | ⭐⭐⭐☆☆ | Classification & Regression |
+| Domain | Level |
+|---------|:----:|
+| Exploratory Data Analysis | ⭐⭐⭐⭐⭐ |
+| Statistical Analysis | ⭐⭐⭐⭐⭐ |
+| Data Visualization | ⭐⭐⭐⭐☆ |
+| Business Intelligence | ⭐⭐⭐⭐☆ |
+| ETL & Data Processing | ⭐⭐⭐⭐☆ |
+| Survey Analytics | ⭐⭐⭐⭐☆ |
+| Forecasting | ⭐⭐⭐☆☆ |
+| Machine Learning | ⭐⭐⭐☆☆ |
 
 ---
 
@@ -127,39 +106,33 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 ## 🛒 E-Commerce Data Pipeline
 
-| Field | Details |
-|------|---------|
-| Stack | Python, SQL, Pandas, Power BI |
-| Scale | 100,000+ Records |
-| Features | ETL Pipeline, Data Cleaning, EDA |
-| Outcome | Interactive Business Dashboard |
+- Built an end-to-end ETL pipeline using Python.
+- Processed 100,000+ records.
+- Performed EDA using Pandas.
+- Built interactive Power BI dashboards.
 
-Developed an end-to-end ETL pipeline for processing e-commerce data, improving data quality and generating business insights through Power BI dashboards.
+**Tech:** Python • SQL • Pandas • Power BI
 
 ---
 
 ## 📈 Vrinda Store Sales Dashboard
 
-| Field | Details |
-|------|---------|
-| Stack | Power BI, Excel |
-| Features | Sales Trends, Customer Behaviour, KPI Reporting |
-| Outcome | Interactive Dashboard |
+- Sales trend analysis
+- Customer behaviour analysis
+- KPI Reporting
+- Interactive Power BI Dashboard
 
-Created a Power BI dashboard to analyze sales performance, customer demographics, and category-wise business insights.
+**Tech:** Power BI • Excel
 
 ---
 
-## 🎓 AI in Higher Education Research
+## 🤖 AI in Higher Education Research
 
-| Field | Details |
-|------|---------|
-| Stack | Python, R, SPSS |
-| Sample | 385 University Students |
-| Analysis | Regression, ANOVA, Reliability, Factor Analysis |
-| Outcome | Research on AI adoption and learning behaviour |
+- Survey of 385 university students.
+- Regression, ANOVA & Reliability Analysis.
+- Statistical insights into AI adoption and learning behaviour.
 
-Conducted a statistical study examining AI-assisted learning, trust, privacy concerns, and cognitive load among university students.
+**Tech:** Python • SPSS • R
 
 ---
 
@@ -169,41 +142,20 @@ Conducted a statistical study examining AI-assisted learning, trust, privacy con
 
 **Directorate of Economics & Statistics, Maharashtra**
 
-**May 2025 – June 2025**
-
-- Analysed NFHS-4 and NFHS-5 datasets.
-- Cleaned and processed government data.
-- Developed comparative reports and visualizations.
-- Supported policy-level planning using statistical insights.
-
----
-
-# 🏆 Achievements
-
-| Achievement | Details |
-|-------------|---------|
-| Government Internship | Analysed public-sector datasets |
-| Research Project | AI in Higher Education |
-| Analytics Projects | ETL Pipeline & Power BI Dashboards |
-| Statistics Background | Strong foundation in applied statistics |
+- Analysed NFHS datasets.
+- Data Cleaning & Reporting.
+- Comparative Statistical Analysis.
+- Visualization for policy-level insights.
 
 ---
 
 # 🎓 Education
 
-### 🎓 Master of Science (Statistics)
-
+🎓 **M.Sc. Statistics**  
 University of Mumbai
 
-2024 – Present
-
----
-
-### 🎓 Bachelor of Science (Statistics)
-
+🎓 **B.Sc. Statistics**  
 SIES College of Arts, Science & Commerce
-
-2021 – 2024
 
 ---
 
@@ -211,21 +163,21 @@ SIES College of Arts, Science & Commerce
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shabiha786&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabiha786&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shabiha786&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabiha786&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -237,43 +189,38 @@ SIES College of Arts, Science & Commerce
 
 - Advanced SQL
 - Power BI Dashboard Design
-- Statistical Modelling
 - Machine Learning
+- Statistical Modelling
 
 ### 🚀 Building
 
 - Data Analytics Portfolio
 - ETL Pipelines
-- Power BI Dashboards
-- Statistical Research Projects
-
-### 🔍 Exploring
-
-- Business Intelligence
-- Predictive Analytics
-- Survey Data Analysis
-- Data Storytelling
+- Interactive Dashboards
+- Research Projects
 
 ### 💼 Open To
 
-- Data Analyst Roles
-- Business Intelligence Roles
-- Research Analyst Roles
+- Data Analyst
+- BI Analyst
+- Research Analyst
 
 ---
 
-# 📬 Connect
+# 📫 Connect With Me
 
-📧 **Email:** shabiharayeen@gmail.com
+📧 **Email:** `shabiharayeen@gmail.com`
 
 💼 **LinkedIn:** YOUR_LINKEDIN_URL
 
-🐙 **GitHub:** https://github.com/YOUR_USERNAME
+🐙 **GitHub:** https://github.com/shabiha786
 
 ---
 
 <div align="center">
 
-## ⭐ "Turning Data into Decisions through Statistics, Analytics, and Visualization."
+### 💙 *"Transforming Raw Data into Meaningful Insights through Statistics & Analytics."*
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
