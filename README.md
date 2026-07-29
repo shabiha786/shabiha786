@@ -1,30 +1,10 @@
-<div align="center">
+# 👩‍💻 About
 
-# Hi 👋 I'm **Shabiha Rayeen**
+I am **Shabiha Rayeen**, an M.Sc. Statistics student at the **University of Mumbai** and an aspiring **Data Analyst** based in Mumbai, India.
 
-### 🎓 M.Sc. Statistics Student | 📊 Aspiring Data Analyst | 💻 Python • SQL • Power BI
+My work focuses on transforming raw datasets into meaningful business insights using **Python, SQL, Power BI, Excel, and statistical analysis**. I enjoy working with structured and unstructured data, performing exploratory data analysis, building interactive dashboards, and applying statistical techniques to solve real-world problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Insights;Statistics+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New"/>
-
-<p align="center">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shabiharayeen@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I am **Shabiha Rayeen**, an **M.Sc. Statistics** student at the **University of Mumbai** with a passion for **Data Analytics, Statistics, and Business Intelligence**.
-
-I enjoy transforming raw datasets into meaningful insights using **Python, SQL, Power BI, Excel, and statistical analysis**. My work includes data cleaning, exploratory data analysis, dashboard development, ETL workflows, and business reporting.
-
-Through academic projects and internship experience, I have worked with government and business datasets, applying statistical techniques to support data-driven decision-making and visualization.
-
-I am currently seeking opportunities as a **Data Analyst**, where I can combine statistical knowledge with analytical and technical skills to solve real-world business problems.
+Through academic projects and internship experience, I have worked with business and public-sector datasets involving data cleaning, ETL pipelines, visualization, reporting, and predictive analysis. I enjoy converting complex data into actionable insights that support better decision-making.
 
 ---
 
@@ -32,62 +12,50 @@ I am currently seeking opportunities as a **Data Analyst**, where I can combine 
 
 | Role | Focus Areas |
 |------|-------------|
-| 📊 Data Analyst | Python, SQL, Statistics |
-| 📈 Business Analyst | Power BI, Excel, KPI Reporting |
-| 📉 BI Analyst | Dashboard Development, Power Query |
-| 📚 Research Analyst | Statistical Analysis, EDA |
+| 📊 Data Analyst | Python, SQL, Statistics, EDA |
+| 📈 Business Intelligence Analyst | Power BI, DAX, Power Query, KPI Reporting |
+| 📉 Junior Data Analyst | Data Cleaning, Visualization, Dashboarding |
+| 📚 Research Analyst | Statistical Analysis, Regression, Survey Analysis |
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00618A?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+## Analytics & Visualization
 
-## Data Analysis
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
----
-
-## Business Intelligence
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel)
-
----
 
 ## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
----
+## Tools
 
-## Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+Git • GitHub • Jupyter Notebook • VS Code
 
 ---
 
-# 💼 Internship Experience
+# 📊 Core Expertise
 
-## Data Analyst Intern
-
-**Directorate of Economics & Statistics, Maharashtra**
-
-**May 2025 – June 2025**
-
-- Analysed NFHS-4 and NFHS-5 public health datasets.
-- Performed statistical analysis and comparative reporting.
-- Created visualizations and analytical reports.
-- Supported evidence-based planning using government data.
+| Domain | Level | Skills |
+|---------|-------|--------|
+| Exploratory Data Analysis | ⭐⭐⭐⭐⭐ | Cleaning, Missing Values, Outlier Detection |
+| Statistical Analysis | ⭐⭐⭐⭐⭐ | Hypothesis Testing, Regression, Correlation |
+| Business Intelligence | ⭐⭐⭐⭐☆ | Power BI, Dashboards, KPI Reporting |
+| Data Visualization | ⭐⭐⭐⭐☆ | Charts, Interactive Reports |
+| ETL & Data Processing | ⭐⭐⭐⭐☆ | Python, Pandas, SQL |
+| Survey Data Analysis | ⭐⭐⭐⭐☆ | Questionnaire Design, Reliability Analysis |
+| Forecasting | ⭐⭐⭐☆☆ | Trend Analysis |
+| Machine Learning | ⭐⭐⭐☆☆ | Basic Classification & Regression |
 
 ---
 
@@ -95,119 +63,146 @@ I am currently seeking opportunities as a **Data Analyst**, where I can combine 
 
 ## 🛒 E-Commerce Data Pipeline
 
-- Developed a scalable ETL pipeline using Python.
-- Processed and transformed over **100,000 records**.
-- Performed exploratory data analysis using Pandas.
-- Built interactive Power BI dashboards.
+| Field | Details |
+|------|---------|
+| Stack | Python, SQL, Pandas, Power BI |
+| Scale | 100,000+ Records |
+| Features | ETL Pipeline, Data Cleaning, Dashboarding |
+| Outcome | Interactive Business Dashboard |
 
-**Tools:** Python • SQL • Pandas • Power BI
-
----
-
-## 📈 Vrinda Store Sales Analysis
-
-- Analysed retail sales and customer behaviour.
-- Built KPI dashboards in Power BI.
-- Identified top-performing products and sales channels.
-- Generated actionable business insights.
-
-**Tools:** Power BI • Excel • Power Query
+Developed an end-to-end ETL pipeline that extracts, cleans, transforms, and visualizes e-commerce data for business insights.
 
 ---
 
-## 📊 AI in Higher Education Research
+## 📈 Vrinda Store Sales Dashboard
 
-- Conducted a survey of **385 university students**.
-- Performed regression, ANOVA, reliability analysis, and factor analysis.
-- Analysed AI adoption, trust, learning behaviour, and privacy concerns.
-- Used Python, R, SPSS, and statistical techniques to interpret findings.
+| Field | Details |
+|------|---------|
+| Stack | Power BI, Excel |
+| Analysis | Sales Trends, Customer Behaviour |
+| Dashboard | Interactive KPI Reporting |
+| Outcome | Business Decision Support |
+
+Created a Power BI dashboard highlighting customer demographics, category-wise sales, state-wise performance, and order trends.
 
 ---
 
-# 📚 Education
+## 🎓 AI in Higher Education Research
 
-### 🎓 Master of Science (Statistics)
+| Field | Details |
+|------|---------|
+| Stack | Python, SPSS, R |
+| Sample | 385 University Students |
+| Methods | Regression, ANOVA, Reliability Analysis |
+| Outcome | Statistical Insights on AI Adoption |
+
+Conducted a research study on AI-assisted learning, analysing trust, learning behaviour, cognitive load, and privacy concerns among university students.
+
+---
+
+# 💼 Experience
+
+## 📊 Data Analyst Intern
+
+**Directorate of Economics & Statistics, Maharashtra**
+
+**May 2025 – June 2025**
+
+- Analysed NFHS-4 and NFHS-5 public health datasets.
+- Cleaned and processed government data using Excel.
+- Created comparative reports and visualizations.
+- Identified trends to support policy-level decision making.
+- Strengthened analytical and reporting skills through real-world public data.
+
+---
+
+# 🏆 Achievements
+
+| Achievement | Details |
+|-------------|----------|
+| Research Project | Conducted AI in Higher Education research using statistical techniques |
+| Data Analytics Projects | Built ETL pipeline and Power BI dashboards |
+| Government Internship | Analysed public-sector datasets for policy reporting |
+| Statistics Background | Strong foundation in inference, regression, sampling, and hypothesis testing |
+
+---
+
+# 🎓 Education
+
+### Master of Science (Statistics)
 
 University of Mumbai
 
-**2024 – Present**
+2024 – Present
 
 ---
 
-### 🎓 Bachelor of Science (Statistics)
+### Bachelor of Science (Statistics)
 
 SIES College of Arts, Science & Commerce
 
-**2021 – 2024**
+2021 – 2024
 
 ---
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<!-- GitHub Stats -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- Top Languages -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Streak Stats -->
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+<!-- Activity Graph -->
 
 ---
 
-# 📊 Contribution Graph
+# 🎯 Current Focus
 
-<p align="center">
+### 📚 Learning
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+- Advanced SQL
+- Power BI Dashboard Design
+- Statistical Modelling
+- Machine Learning Fundamentals
 
-</p>
+### 🚀 Building
+
+- Data Analytics Portfolio
+- Power BI Dashboards
+- ETL Projects
+- Statistical Research Projects
+
+### 🔍 Exploring
+
+- Business Intelligence
+- Survey Data Analytics
+- Predictive Analytics
+- Data Storytelling
+
+### 💼 Open To
+
+- Data Analyst
+- Business Intelligence Analyst
+- Junior Data Analyst
+- Research Analyst
 
 ---
 
-# 🏆 Certifications
+# 📫 Connect
 
-- Introduction to Data Analytics
-- SQL
-- Python Programming
-- Power BI
-- Vedic Mathematics
+📧 **Email:** shabiharayeen@gmail.com
 
----
+💼 **LinkedIn:** https://linkedin.com/in/YOUR_USERNAME
 
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shabiharayeen@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+🐙 **GitHub:** https://github.com/YOUR_USERNAME
 
 ---
 
 <div align="center">
 
-### 💡 "Data tells a story. My goal is to uncover it through analytics, statistics, and visualization."
+### 📊 *"Turning data into actionable insights through statistics, analytics, and visualization."*
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 </div>
