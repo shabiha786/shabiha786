@@ -219,8 +219,4 @@ SIES College of Arts, Science & Commerce
 
 <div align="center">
 
-### 💙 *"Transforming Raw Data into Meaningful Insights through Statistics & Analytics."*
-
-⭐ **Thanks for visiting my profile!**
-
 </div>
