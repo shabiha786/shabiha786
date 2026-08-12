@@ -211,7 +211,7 @@ SIES College of Arts, Science & Commerce
 
 📧 **Email:** `shabiharayeen@gmail.com`
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+💼 **LinkedIn:** linkedin.com/in/shabiha-rayeen-41a626320
 
 🐙 **GitHub:** https://github.com/shabiha786
 
