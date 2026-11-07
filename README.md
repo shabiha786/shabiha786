@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<!-- PROFESSIONAL NAVY BLUE HEADER -->
+<!-- NAVY BLUE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:081B33,50:102D50,100:24618D&height=250&section=header&text=Shabiha%20Rayeen&fontSize=43&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=49&descColor=FFFFFF"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=16436B&center=true&vCenter=true&width=600&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
@@ -18,12 +18,7 @@
 <img src="https://img.shields.io/badge/DATA-ANALYST-24618D?style=for-the-badge"/>
 
 <br/><br/>
-<!-- GITHUB PROFILE STATS -->
-<img src="https://komarev.com/ghpvc/?username=shabiha786&label=PROFILE+VIEWS&color=081B33&style=flat"/>
-<img src="https://img.shields.io/github/followers/shabiha786?label=Followers&style=flat&color=16436B"/>
-<img src="https://img.shields.io/github/stars/shabiha786?label=Stars&style=flat&color=24618D"/>
 
-<br/><br/><br/>
 <!-- SOCIAL LINKS -->
 <a href="https://github.com/shabiha786">
 <img src="https://img.shields.io/badge/PORTFOLIO-081B33?style=for-the-badge&logo=github&logoColor=white"/>
@@ -40,7 +35,6 @@
 
 </div>
 
-</div>
 
 # 💫 About Me:
 I am Shabiha Rayeen, an M.Sc. Statistics student at the University of Mumbai and an aspiring Data Analyst based in Mumbai, India.<br><br>I enjoy transforming raw datasets into meaningful business insights using Python, SQL, Power BI, Excel, and statistical analysis. My interests include exploratory data analysis, ETL pipelines, dashboard development, business intelligence, and predictive analytics.<br><br>I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to solve real-world problems and support data-driven decision-making.
