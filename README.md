@@ -3,10 +3,12 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Shabiha%20Rayeen&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=15&descAlignY=65&descColor=FFFFFF"/>
 
+<br/><br/><br/>
+
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Education Badges -->
 <img src="https://img.shields.io/badge/MSc-STATISTICS-203A43?style=for-the-badge"/>
@@ -14,14 +16,14 @@
 <img src="https://img.shields.io/badge/BSc-STATISTICS-203A43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA-ANALYST-2C5364?style=for-the-badge"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=shabiha786&label=PROFILE+VIEWS&color=203A43&style=flat"/>
 <img src="https://img.shields.io/github/followers/shabiha786?label=Followers&style=flat&color=2C5364"/>
 <img src="https://img.shields.io/github/stars/shabiha786?label=Stars&style=flat&color=203A43"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Social Links -->
 <a href="https://github.com/shabiha786">
@@ -41,7 +43,6 @@
 </a>
 
 </div>
-
 # 💫 About Me:
 I am Shabiha Rayeen, an M.Sc. Statistics student at the University of Mumbai and an aspiring Data Analyst based in Mumbai, India.<br><br>I enjoy transforming raw datasets into meaningful business insights using Python, SQL, Power BI, Excel, and statistical analysis. My interests include exploratory data analysis, ETL pipelines, dashboard development, business intelligence, and predictive analytics.<br><br>I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to solve real-world problems and support data-driven decision-making.
 
