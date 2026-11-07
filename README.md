@@ -10,7 +10,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=16436B&center=true&vCenter=true&width=600&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
 
 <br/><br/>
-
 <!-- EDUCATION & PROFILE BADGES -->
 <img src="https://img.shields.io/badge/MSc-STATISTICS-081B33?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UNIVERSITY-MUMBAI-16436B?style=for-the-badge"/>
@@ -18,7 +17,6 @@
 <img src="https://img.shields.io/badge/DATA-ANALYST-24618D?style=for-the-badge"/>
 
 <br/><br/>
-
 <!-- SOCIAL LINKS -->
 <a href="https://github.com/shabiha786">
 <img src="https://img.shields.io/badge/PORTFOLIO-081B33?style=for-the-badge&logo=github&logoColor=white"/>
