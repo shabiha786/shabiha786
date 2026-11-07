@@ -1,45 +1,45 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Shabiha%20Rayeen&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=15&descAlignY=65&descColor=FFFFFF"/>
+<!-- NAVY BLUE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:081B33,50:102D50,100:24618D&height=210&section=header&text=Shabiha%20Rayeen&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=15&descAlignY=65&descColor=FFFFFF"/>
 
 <br/><br/><br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=16436B&center=true&vCenter=true&width=550&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
 
 <br/><br/><br/>
 
-<!-- Education Badges -->
-<img src="https://img.shields.io/badge/MSc-STATISTICS-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UNIVERSITY-MUMBAI-2C5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BSc-STATISTICS-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA-ANALYST-2C5364?style=for-the-badge"/>
+<!-- EDUCATION & PROFILE BADGES -->
+<img src="https://img.shields.io/badge/MSc-STATISTICS-081B33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UNIVERSITY-MUMBAI-16436B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BSc-STATISTICS-081B33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA-ANALYST-24618D?style=for-the-badge"/>
 
 <br/><br/><br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=shabiha786&label=PROFILE+VIEWS&color=203A43&style=flat"/>
-<img src="https://img.shields.io/github/followers/shabiha786?label=Followers&style=flat&color=2C5364"/>
-<img src="https://img.shields.io/github/stars/shabiha786?label=Stars&style=flat&color=203A43"/>
+<!-- GITHUB PROFILE STATS -->
+<img src="https://komarev.com/ghpvc/?username=shabiha786&label=PROFILE+VIEWS&color=081B33&style=flat"/>
+<img src="https://img.shields.io/github/followers/shabiha786?label=Followers&style=flat&color=16436B"/>
+<img src="https://img.shields.io/github/stars/shabiha786?label=Stars&style=flat&color=24618D"/>
 
 <br/><br/><br/>
 
-<!-- Social Links -->
+<!-- SOCIAL LINKS -->
 <a href="https://github.com/shabiha786">
-<img src="https://img.shields.io/badge/PORTFOLIO-203A43?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-081B33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-2C5364?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-16436B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-203A43?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-102D50?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shabiha786">
-<img src="https://img.shields.io/badge/GITHUB-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-081B33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
