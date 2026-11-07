@@ -1,14 +1,15 @@
+
 <div align="center">
 
-<!-- NAVY BLUE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:081B33,50:102D50,100:24618D&height=210&section=header&text=Shabiha%20Rayeen&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=15&descAlignY=65&descColor=FFFFFF"/>
+<!-- PROFESSIONAL NAVY BLUE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:081B33,50:102D50,100:24618D&height=250&section=header&text=Shabiha%20Rayeen&fontSize=43&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=49&descColor=FFFFFF"/>
 
 <br/><br/><br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=16436B&center=true&vCenter=true&width=550&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=16436B&center=true&vCenter=true&width=600&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
 
-<br/><br/><br/>
+<br/><br/>
 
 <!-- EDUCATION & PROFILE BADGES -->
 <img src="https://img.shields.io/badge/MSc-STATISTICS-081B33?style=for-the-badge"/>
@@ -16,7 +17,7 @@
 <img src="https://img.shields.io/badge/BSc-STATISTICS-081B33?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA-ANALYST-24618D?style=for-the-badge"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 <!-- GITHUB PROFILE STATS -->
 <img src="https://komarev.com/ghpvc/?username=shabiha786&label=PROFILE+VIEWS&color=081B33&style=flat"/>
@@ -41,6 +42,8 @@
 <a href="https://github.com/shabiha786">
 <img src="https://img.shields.io/badge/GITHUB-081B33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </div>
 # 💫 About Me:
