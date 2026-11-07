@@ -1,34 +1,46 @@
-# 👋 Hi, I'm **Shabiha Rayeen**
+<div align="center">
 
-### Data Analyst | Statistics | Python | SQL | Power BI
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Shabiha%20Rayeen&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=15&descAlignY=65&descColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Meaningful+Insights;Statistics+%7C+Data+Analytics+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/🎓_M.Sc._Statistics-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏫_University_of_Mumbai-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Data_Analytics-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐍_Python_|_SQL_|_Power_BI-06B6D4?style=for-the-badge"/>
+<!-- Education Badges -->
+<img src="https://img.shields.io/badge/MSc-STATISTICS-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UNIVERSITY-MUMBAI-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BSc-STATISTICS-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA-ANALYST-2C5364?style=for-the-badge"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Mumbai,_India-0F172A?style=for-the-badge"/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=shabiha786&label=PROFILE+VIEWS&color=203A43&style=flat"/>
+<img src="https://img.shields.io/github/followers/shabiha786?label=Followers&style=flat&color=2C5364"/>
+<img src="https://img.shields.io/github/stars/shabiha786?label=Stars&style=flat&color=203A43"/>
 
-<br><br>
+<br/><br/>
 
+<!-- Social Links -->
 <a href="https://github.com/shabiha786">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-203A43?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-2C5364?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shabiharayeen@gmail.com">
-<img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-203A43?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
---
+
+<a href="https://github.com/shabiha786">
+<img src="https://img.shields.io/badge/GITHUB-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 # 💫 About Me:
 I am Shabiha Rayeen, an M.Sc. Statistics student at the University of Mumbai and an aspiring Data Analyst based in Mumbai, India.<br><br>I enjoy transforming raw datasets into meaningful business insights using Python, SQL, Power BI, Excel, and statistical analysis. My interests include exploratory data analysis, ETL pipelines, dashboard development, business intelligence, and predictive analytics.<br><br>I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to solve real-world problems and support data-driven decision-making.
