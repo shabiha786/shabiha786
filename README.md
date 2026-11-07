@@ -18,27 +18,22 @@
 <img src="https://img.shields.io/badge/DATA-ANALYST-24618D?style=for-the-badge"/>
 
 <br/><br/>
-
 <!-- GITHUB PROFILE STATS -->
 <img src="https://komarev.com/ghpvc/?username=shabiha786&label=PROFILE+VIEWS&color=081B33&style=flat"/>
 <img src="https://img.shields.io/github/followers/shabiha786?label=Followers&style=flat&color=16436B"/>
 <img src="https://img.shields.io/github/stars/shabiha786?label=Stars&style=flat&color=24618D"/>
 
 <br/><br/><br/>
-
 <!-- SOCIAL LINKS -->
 <a href="https://github.com/shabiha786">
 <img src="https://img.shields.io/badge/PORTFOLIO-081B33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LINKEDIN-16436B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/EMAIL-102D50?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/shabiha786">
 <img src="https://img.shields.io/badge/GITHUB-081B33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -46,6 +41,7 @@
 </div>
 
 </div>
+
 # 💫 About Me:
 I am Shabiha Rayeen, an M.Sc. Statistics student at the University of Mumbai and an aspiring Data Analyst based in Mumbai, India.<br><br>I enjoy transforming raw datasets into meaningful business insights using Python, SQL, Power BI, Excel, and statistical analysis. My interests include exploratory data analysis, ETL pipelines, dashboard development, business intelligence, and predictive analytics.<br><br>I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to solve real-world problems and support data-driven decision-making.
 
