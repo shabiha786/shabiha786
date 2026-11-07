@@ -28,7 +28,8 @@
 <a href="mailto:shabiharayeen@gmail.com">
 <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
----
+--
+
 # 💫 About Me:
 I am Shabiha Rayeen, an M.Sc. Statistics student at the University of Mumbai and an aspiring Data Analyst based in Mumbai, India.<br><br>I enjoy transforming raw datasets into meaningful business insights using Python, SQL, Power BI, Excel, and statistical analysis. My interests include exploratory data analysis, ETL pipelines, dashboard development, business intelligence, and predictive analytics.<br><br>I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to solve real-world problems and support data-driven decision-making.
 
