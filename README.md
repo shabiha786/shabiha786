@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- NAVY BLUE ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:081B33,50:102D50,100:24618D&height=250&section=header&text=Shabiha%20Rayeen&fontSize=43&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=49&descColor=FFFFFF&animation=fadeIn"/>
+<!-- ANIMATED NAVY BLUE TOP HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081B33,25:102D50,50:16436B,75:24618D,100:081B33&height=250&section=header&text=Shabiha%20Rayeen&fontSize=43&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=52&animation=fadeIn&stroke=24618D&strokeWidth=2"/>
 
 <br/><br/>
 
@@ -37,12 +37,12 @@
 
 <br/><br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- NAVY BLUE DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081B33,50:16436B,100:24618D&height=3"/>
 
 <br/><br/>
 
-<!-- ANIMATED GITHUB CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <img src="https://raw.githubusercontent.com/shabiha786/shabiha786/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/><br/>
@@ -54,13 +54,13 @@
 
 <br/><br/>
 
-<!-- STREAK STATS -->
+<!-- GITHUB STREAK STATS -->
 <img width="70%" src="https://streak-stats.demolab.com?user=shabiha786&theme=tokyonight&background=081B33&ring=24618D&fire=24618D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&border=16436B"/>
 
 <br/><br/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081B33,50:102D50,100:24618D&height=100&section=footer"/>
+<!-- ANIMATED NAVY BLUE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081B33,25:102D50,50:16436B,75:24618D,100:081B33&height=120&section=footer"/>
 
 </div>
 
