@@ -1,13 +1,15 @@
-
 <div align="center">
 
-<!-- NAVY BLUE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:081B33,50:102D50,100:24618D&height=250&section=header&text=Shabiha%20Rayeen&fontSize=43&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=49&descColor=FFFFFF"/>
+<!-- NAVY BLUE ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:081B33,50:102D50,100:24618D&height=250&section=header&text=Shabiha%20Rayeen&fontSize=43&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Analyst%20%7C%20MSc%20Statistics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=49&descColor=FFFFFF&animation=fadeIn"/>
 
 <br/><br/>
+
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=16436B&center=true&vCenter=true&width=600&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=24618D&center=true&vCenter=true&width=600&lines=EDA+%7C+Hypothesis+Testing;Data+Analysis+%7C+Visualization;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" />
+
 <br/><br/>
+
 <!-- EDUCATION & PROFILE BADGES -->
 <img src="https://img.shields.io/badge/MSc-STATISTICS-081B33?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UNIVERSITY-MUMBAI-16436B?style=for-the-badge"/>
@@ -15,23 +17,52 @@
 <img src="https://img.shields.io/badge/DATA-ANALYST-24618D?style=for-the-badge"/>
 
 <br/><br/>
+
 <!-- SOCIAL LINKS -->
 <a href="https://github.com/shabiha786">
 <img src="https://img.shields.io/badge/PORTFOLIO-081B33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LINKEDIN-16436B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/EMAIL-102D50?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/shabiha786">
 <img src="https://img.shields.io/badge/GITHUB-081B33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<!-- ANIMATED DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081B33,50:16436B,100:24618D&height=3"/>
+
+<br/><br/>
+
+<!-- ANIMATED GITHUB CONTRIBUTION SNAKE -->
+<img src="https://raw.githubusercontent.com/shabiha786/shabiha786/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/><br/>
+
+<!-- GITHUB STATS -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shabiha786&show_icons=true&theme=tokyonight&bg_color=081B33&title_color=FFFFFF&icon_color=24618D&text_color=FFFFFF&border_color=16436B"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabiha786&layout=compact&theme=tokyonight&bg_color=081B33&title_color=FFFFFF&text_color=FFFFFF&border_color=16436B"/>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<img width="70%" src="https://streak-stats.demolab.com?user=shabiha786&theme=tokyonight&background=081B33&ring=24618D&fire=24618D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&border=16436B"/>
+
+<br/><br/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081B33,50:102D50,100:24618D&height=100&section=footer"/>
+
 </div>
-
-
 # 💫 About Me:
 I am Shabiha Rayeen, an M.Sc. Statistics student at the University of Mumbai and an aspiring Data Analyst based in Mumbai, India.<br><br>I enjoy transforming raw datasets into meaningful business insights using Python, SQL, Power BI, Excel, and statistical analysis. My interests include exploratory data analysis, ETL pipelines, dashboard development, business intelligence, and predictive analytics.<br><br>I have worked on business analytics projects, government datasets, and academic research, applying statistical methods to solve real-world problems and support data-driven decision-making.
 
